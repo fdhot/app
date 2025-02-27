@@ -1,7 +1,3 @@
-# Framework de Mixture of Experts para Explicabilidade de Estados de Ansiedade
-
-## Visão Geral
-
 Este notebook implementa um framework de Mixture of Experts (MoE) para melhorar a explicabilidade dos estados de ansiedade antes e após intervenções em diferentes grupos experimentais. O framework combina Modelos de Linguagem Grandes (LLMs) com inferência causal e um agente DDQN (Deep Q-Network Duplo) simplificado para potenciais recomendações de ação.
 
 ## Estrutura do Fluxo de Trabalho
